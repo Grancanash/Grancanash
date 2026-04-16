@@ -9,10 +9,3 @@ Hola<br><br>Soy un desarrollador web apasionado por crear interfaces limpias, re
 ![](https://streak-stats.demolab.com/?user=grancanash&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=grancanash&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=grancanash&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=grancanash&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
