@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="./assets/perfil.png" 
+       alt="Alejandro Sarmiento - Full Stack Developer & Interface Architect Banner" 
+       width="100%" 
+       style="border-radius: 10px;">
+</div>
+
+<div align="center">
 
 # 🚀 Alejandro Sarmiento
 ### **Full Stack Developer & Interface Architect**
