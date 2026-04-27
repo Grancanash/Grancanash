@@ -76,5 +76,5 @@ Hola, soy un desarrollador con el foco puesto en crear experiencias de usuario i
 <div align="center">
 ¿Tienes un proyecto en mente? <b>Hablemos.</b>
 <br>
-📫 <a href="mailto:tu-email@ejemplo.com">admin@grancanash.es</a>
+📫 <a href="mailto:tu-email@ejemplo.com">ash@grancanash.es</a>
 </div>
