@@ -8,7 +8,6 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="./assets/icon-header.svg" width="32" height="32" align="center" alt="Alejandro Sarmiento"> 
     Alejandro Sarmiento
 </h1>
 
