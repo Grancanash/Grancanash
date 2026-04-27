@@ -71,6 +71,15 @@ Hola, soy un desarrollador con el foco puesto en crear experiencias de usuario i
 
 ---
 
+## 🛠️ Otros Trabajos y Ejercicios
+*Colección de retos técnicos, ejercicios de aprendizaje y pequeñas utilidades.*
+
+| Proyecto | Descripción | Stack | Enlaces |
+| :--- | :--- | :--- | :--- |
+| **React Exercises - Vol. 1** | Resolución de lógica y componentes fundamentales en React. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | [📂 Repo](https://github.com/Grancanash/REACTJS-Entrega-de-ejercicios-1) / [🚀 Demo](https://grancanash.github.io/REACTJS-Entrega-de-ejercicios-1/) |
+
+---
+
 ## 📊 Estadísticas
 <div align="center">
 
