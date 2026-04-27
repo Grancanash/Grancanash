@@ -71,6 +71,34 @@ Hola, soy un desarrollador con el foco puesto en crear experiencias de usuario i
 
 ---
 
+### 💣 [BUSCAMINAS - Classic Logic Game](https://github.com/Grancanash/REACTJS-Entrega-de-proyecto)
+**Frontend Application: React + Vite + Tailwind CSS**
+
+<div align="center">
+  <br>
+  <a href="https://grancanash.github.io/REACTJS-Entrega-de-proyecto/">
+    <img src="https://raw.githubusercontent.com/Grancanash/REACTJS-Entrega-de-proyecto/main/docs/hero_buscaminas.jpg" width="90%" style="border-radius:15px; border: 1px solid #30363d">
+  </a>
+  <br><br>
+  <a href="https://github.com/Grancanash/REACTJS-Entrega-de-proyecto">
+    <img src="https://img.shields.io/badge/Código_Fuente-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://grancanash.github.io/REACTJS-Entrega-de-proyecto/">
+    <img src="https://img.shields.io/badge/Demo_En_Vivo-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+> Reinvención técnica del legendario juego de lógica. Este proyecto destaca por la implementación de algoritmos de recursividad para el despeje de celdas vacías y una gestión de estado compleja para controlar cronómetros, banderas y condiciones de victoria en tiempo real.
+
+- **🧠 Algoritmia:** Generación aleatoria de minas con validación de primer clic seguro y algoritmos de propagación.
+- **⚙️ Personalización:** Sistema dinámico para ajustar el tamaño del tablero y la densidad de minas.
+- **🎮 Experiencia de Usuario:** Interfaz minimalista y responsiva con feedback visual inmediato para estados de derrota y victoria.
+- **🛠️ Stack Técnico:** React 18, Vite, Tailwind CSS y Hooks personalizados para la lógica del juego.
+
+---
+
 ## 🛠️ Otros Trabajos y Ejercicios
 *Colección de retos técnicos, ejercicios de aprendizaje y pequeñas utilidades.*
 
