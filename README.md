@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/perfil.png" 
+  <img src="./assets/perfil.jpg" 
        alt="Alejandro Sarmiento - Full Stack Developer & Interface Architect Banner" 
        width="100%" 
        style="border-radius: 10px;">
