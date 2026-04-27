@@ -105,7 +105,6 @@ Hola, soy un desarrollador con el foco puesto en crear experiencias de usuario i
 | Proyecto | Descripción | Stack | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **React Exercises - Vol. 1** | Resolución de lógica y componentes fundamentales en React. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | [📂 Repo](https://github.com/Grancanash/REACTJS-Entrega-de-ejercicios-1) / [🚀 Demo](https://grancanash.github.io/REACTJS-Entrega-de-ejercicios-1/) |
-| :--- | :--- | :--- | :--- |
 | **Memory Game - Parejas** | Juego de memoria interactivo con lógica de volteo y emparejamiento dinámico. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | [📂 Repo](https://github.com/Grancanash/parejas) / [🚀 Demo](https://grancanash.github.io/parejas/) |
 
 ---
