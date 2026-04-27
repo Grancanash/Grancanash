@@ -8,13 +8,10 @@
 <div align="center">
 
 <h1 align="center">
-    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#0056D2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 12px;">
-        <circle cx="12" cy="12" r="3"></circle>
-        <path d="M3 12a9 9 0 1 0 18 0 9 9 0 1 0-18 0"></path>
-        <path d="M3 12h1m16 0h1M12 3v1m0 16v1"></path>
-    </svg>
+    <img src="./assets/icon-header.svg" width="32" height="32" align="center" alt="Alejandro Sarmiento"> 
     Alejandro Sarmiento
 </h1>
+
 ### **Full Stack Developer & Interface Architect**
 _Apasionado por el código limpio, las interfaces responsivas y las soluciones web robustas._
 
