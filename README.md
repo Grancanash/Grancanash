@@ -28,7 +28,7 @@ _Apasionado por el código limpio, las interfaces responsivas y las soluciones w
 ## 💫 ¿Quién soy?
 Hola, soy un desarrollador con el foco puesto en crear experiencias de usuario impecables. Mi trayectoria combina el **Frontend tradicional** con la potencia de **Django** y **React**. Actualmente curso un Máster Full Stack para dominar arquitecturas modernas y conectar ambos mundos con precisión.
 
-- 🌱 **Actualmente explorando:** Microservicios, Cloud Deployment y UX avanzada.
+- 🌱 **Actualmente explorando:** Herramientas de IA aplicadas al código y optimización de flujos de desarrollo.
 - 🤝 **Abierto a:** Colaboraciones en proyectos de código abierto y retos profesionales exigentes.
 - ⚡ **Mi filosofía:** Si el código no es legible, no está terminado.
 
