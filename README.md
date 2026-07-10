@@ -60,7 +60,7 @@ Hola, soy un desarrollador con el foco puesto en crear experiencias de usuario i
   <a href="https://github.com/Grancanash/DJANGO-Tarea-Proyecto-1-CRM-Basico">
     <img src="https://img.shields.io/badge/Código_Fuente-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://crm.grancanash.es">
+  <a href="https://crm.grancanash.es" target="_blank">
     <img src="https://img.shields.io/badge/Demo_En_Vivo-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
