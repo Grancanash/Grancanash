@@ -67,7 +67,7 @@ Hola, soy un desarrollador con el foco puesto en crear experiencias de usuario i
 
 <br>
 
-> Sistema profesional de gestión de clientes. Implementa seguridad **JWT**, despliegue con **Docker** y una interfaz responsiva con **Tailwind v4**. Incluye métricas en tiempo real y exportación de datos inteligente.
+> Sistema profesional de gestión de clientes. Implementa seguridad **JWT**, despliegue con **Docker** y una interfaz responsiva con **Tailwind v4**. Incluye métricas en tiempo real y exportación de datos.
 
 ---
 
